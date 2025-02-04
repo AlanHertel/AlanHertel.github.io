@@ -88,8 +88,8 @@ ol
     font-family: 'Poppins', sans-serif;
     color: rgb(165, 165, 165);
     font-size: 18px;
-    margin-left: 600px;
-    margin-right: 600px;
+    margin-left: 400px;
+    margin-right: 400px;
 }
 ol li::marker
 {
